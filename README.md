@@ -1,5 +1,5 @@
 # Software Developer Folio ⚡️
-![](ezgif.com-gif-maker (1).gif)
+![grab-landing-page](https://github.com/sravanidodla/Portfolio/blob/master/portfoliogif.gif)
 
 
 ## Table of Contents
