@@ -1,5 +1,5 @@
 # Software Developer Folio ⚡️
-![grab-landing-page](https://github.com/sravanidodla/Portfolio/blob/master/portfoliogif.gif)
+![grab-landing-page](https://github.com/sravanidodla/Portfolio/blob/master/DevfolioGIF.gif)
 
 
 ## Table of Contents
