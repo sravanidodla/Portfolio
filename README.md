@@ -1,12 +1,4 @@
-# Software Developer Folio ⚡️ 
-
-## A clean, beautiful and responsive portfolio template for Developers!
-
-Just change `src/portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/saadpasta/developerFolio/pulls).
+# Software Developer Folio ⚡️
 
 ## Table of Contents
 
@@ -19,8 +11,6 @@ If you created something awesome and want to contribute then feel free to open a
 - [Technologies Used](#technologies-used)
 - [Illustrations](#illustrations)
 
-
-
 ## Sections
 
 ✔️ Summary and About me\
@@ -32,7 +22,7 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Contact me\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://sravanidodla.github.io/developerFolio)**.
+To view a live example, **[click here](https://sravanidodla.github.io/Portfolio)**.
 
 ## Getting Started
 
@@ -156,6 +146,3 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 ## Illustrations
 
 - [UnDraw](https://undraw.co/illustrations)
-
-
-
